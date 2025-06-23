@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #00c6ff, #0072ff); /* Degradê de azul */
+    background: linear-gradient(135deg, #84d8ef, #161616); /* Degradê de azul */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -61,7 +61,7 @@ body {
 }
 
 .card-back {
-    background-color: #f1c40f; /* Amarelo mais claro */
+    background-color: #fce37e; /* Amarelo mais claro */
     color: #333;
     transform: rotateY(180deg); /* Coloca a parte de trás virada */
 }
